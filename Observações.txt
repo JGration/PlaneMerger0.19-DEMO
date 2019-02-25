@@ -1,0 +1,17 @@
+Boa noite professor, eu analisei as considerações e realmente são interessantes, mas vou explicar alguns fatores incluidos:
+- Sobre a antecipação de um ataque do boss, eu estava tentando implementar isso mesmo porém para isso deve mexer mais com o particle system do unity
+e até mesmo ele sofre umas mudanças nesse unity novo que estou um pouco confuso ainda rs, a explosão de fogo peguei de um asset pronto e ainda não
+sei fazer uma marca no chão para aparecer antes do ataque surgir, porém é realmente importante para eu estudar um pouco depois como fazer esses
+efeitos cosméticos.
+- O mesmo vai para a animação de morte do Boss, primeiro tentei fazer um fade para o Boss(o objeto) desaparecer lentamente, sem muito sucesso por usarem
+shadders customizados. Então como solução temporária fiz com que o boss realmente entrasse no chão desaparecendo, o que acho melhor do que simplesmente
+desaparecer instantâneamente.
+- Nesse caso alguns jogos do mesmo estilo(pegando mais como referência a Megaman) fazem com que o personagem que não consegue atravessar todo o trajeto com
+o dash ir para animação de agachamento. Mas para isso talvez teria que criar algum sistema para identificar a colisão superior do personagem para poder
+colocar o trigger para agachado aqui, o que tornaria um pouco mais complexo agora. Fora isso deslizar o player um pouco mais era algo que tentei ainda
+sem sucesso, talvez teria que mexer um pouco com o physics do unity para que isso ocorra.
+
+No entanto, agradeço ao feedback, me fez pensar em outras formas como poder consertar essas observações, porém ainda precisando de mais tempo ainda,
+o que não temos muito agora.
+
+Antecipando, um feliz e prospero ano novo, até mais.
